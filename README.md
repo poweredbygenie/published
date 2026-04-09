@@ -1,2 +1,2 @@
-# published-research
-Published research from Research Genie
+# published
+Published pages from Research Genie
